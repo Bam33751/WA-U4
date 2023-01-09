@@ -14,6 +14,7 @@ Download the complete Project Structure and open it in an IDE of your choice (eg
 1. Donwload the Main.java file and put it a directory of your choice. 
 
 2. Open the cmd and got to the choosen directory for the main.java file. 
+
 ![dir](https://user-images.githubusercontent.com/76065789/211327331-25f70142-d7ef-45de-8a29-01648b97c873.PNG)
 
 
@@ -22,7 +23,6 @@ Download the complete Project Structure and open it in an IDE of your choice (eg
 javac Main.java
 ````
    Then a secon file "Main.class" is being generated
-   
    ![javac](https://user-images.githubusercontent.com/76065789/211327379-d78e3f53-8ebb-44e6-8211-271a77ed399f.PNG)
 
 
