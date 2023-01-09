@@ -5,11 +5,6 @@ This repository containes the java Code for a "Hello World" print.
 ### Try out the code
 -----
 
-#### In IDE <br>
-Download the complete Project Structure and open it in an IDE of your choice (eg. IntelliJ IDEA) and run the code. 
-
------
-
 #### In Command Line <br>
 1. Donwload the Main.java file and put it a directory of your choice. 
 
